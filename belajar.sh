@@ -1,2 +1,0 @@
-
-echo 'SEkarang Belajar Permission'
